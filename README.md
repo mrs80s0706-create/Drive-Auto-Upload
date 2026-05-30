@@ -1,5 +1,7 @@
 # Drive-Auto-Upload
 
+![Google Drive API連携 ファイル自動アップロードシステム](banner.png)
+
 Google Driveへのファイル自動アップロードツールです。OAuth2認証を使用し、指定ファイルをGoogle Driveの特定フォルダへ自動でアップロードします。
 
 ## 概要 / Overview
